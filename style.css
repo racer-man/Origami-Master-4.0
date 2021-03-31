@@ -1,0 +1,10 @@
+h1{
+    border: 9px solid purple;
+    background-color: red;
+    padding: 2px;
+}
+
+a{
+    border: 6px solid blue;
+    background-color: chartreuse;    
+}
